@@ -52,3 +52,12 @@ Below are some sample visualizations generated from this project:
 ---
 ### Histogram of GDP Per Capita
 ![Histogram of GDP Per Capita](https://drive.google.com/uc?export=view&id=1CzRR5i0IcTTZX_Ft905suWs02lESn0Ca)
+
+---
+
+## Co-Authored
+
+**Mohammad Abdur Rahman (Riad)**  
+🎓 M.Sc. in CSE (Data Science), Daffodil International University  
+📧 Email: [rahmanriad.cse@gmail.com]  
+🌐 [https://www.linkedin.com/in/rahmanriad/]
