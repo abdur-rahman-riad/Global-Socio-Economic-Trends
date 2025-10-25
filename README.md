@@ -42,11 +42,11 @@ Below are some sample visualizations generated from this project:
 ![Economic Prosperity, Demographics, and Population by Region](https://drive.google.com/uc?export=view&id=1iRStNAa5CugrvJDL90ovrO1z87VNAPQW)
 
 ---
-### Global Unemployment Rates
+### Education Spending vs. Economic Indicators (3D Scatter Plot for Asia)
 ![Global Unemployment Rates](https://drive.google.com/uc?export=view&id=1d-wlc9qlsVOh0aASu4ZDtNCgTzY-AGwB)
 
 ---
-### Education Spending vs. Economic Indicators (3D Scatter Plot for Asia)
+### Global Unemployment Rates
 ![Education Spending vs. Economic Indicators](https://drive.google.com/uc?export=view&id=1gDVnWXCDVF8P9gkddqe6uWRPONO2BCIu)
 
 ---
