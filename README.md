@@ -6,7 +6,7 @@ It analyzes **Global Datasets** on GDP, population, education, CO₂ emissions, 
 ---
 ## 🔗 Live Preview
 Explore The **Interactive Visualizations (Power BI)**:
-👉 **Dashboard:** [View](https://drive.google.com/uc?export=view&id=18ffRIhIAR2b41Rd7_eGdL1EEppDAgoYQ)
+👉 **Dashboard:** [View](https://drive.google.com/file/d/18ffRIhIAR2b41Rd7_eGdL1EEppDAgoYQ/view?usp=sharing)
 
 ## Project Description
 
