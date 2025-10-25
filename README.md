@@ -35,3 +35,20 @@ This analysis helps economists, researchers, and policymakers identify relations
 - **Socio-Economic Correlations:** Bivariate and multivariate analysis (GDP vs. Education, Inflation vs. Unemployment, etc.)
 
 ---
+## Project Preview
+Below are some sample visualizations generated from this project:
+
+### Economic Prosperity, Demographics, and Population by Region
+![Economic Prosperity, Demographics, and Population by Region](https://drive.google.com/uc?export=view&id=1iRStNAa5CugrvJDL90ovrO1z87VNAPQW)
+
+---
+### Global Unemployment Rates
+![Global Unemployment Rates](https://drive.google.com/uc?export=view&id=1d-wlc9qlsVOh0aASu4ZDtNCgTzY-AGwB)
+
+---
+### Education Spending vs. Economic Indicators (3D Scatter Plot for Asia)
+![Education Spending vs. Economic Indicators](https://drive.google.com/uc?export=view&id=1gDVnWXCDVF8P9gkddqe6uWRPONO2BCIu)
+
+---
+### Histogram of GDP Per Capita
+![Histogram of GDP Per Capita](https://drive.google.com/uc?export=view&id=1CzRR5i0IcTTZX_Ft905suWs02lESn0Ca)
